@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: DevOPS & Marketing
+role: DevOPS & Marketing.
 
 # Organizations/Affiliations to show in About widget
 organizations:
